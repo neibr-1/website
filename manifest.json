@@ -1,0 +1,9 @@
+{
+  "background_color": "#ff8d23",
+  "display": "standalone",
+  "lang": "en",
+  "name": "neibr",
+  "short_name": "neibr",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}
